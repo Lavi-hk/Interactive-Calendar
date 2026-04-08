@@ -8,7 +8,10 @@ A production-grade, interactive wall calendar component built for the **takeUfor
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
+## 📹 Demo
+> 🌐 [Live on Vercel](https://interactive-calendar-glc5auce8-lavi-hks-projects.vercel.app/)
 
+---
 ## ✨ Features
 
 | Feature | Description |
@@ -140,13 +143,6 @@ The challenge spec explicitly says "client-side solutions like localStorage". No
 
 ---
 
-## 📹 Demo
-
-> 🎬 [Watch the 2-minute demo on Loom](https://loom.com/your-link-here)
-
-> 🌐 [Live on Vercel](https://your-deploy-url.vercel.app)
-
----
 
 ## 📄 License
 
